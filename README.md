@@ -1,5 +1,5 @@
 # Textures
-HD Textures with PBR for Minecraft.
+HD Textures with Normals, Speculars and POM for Minecraft.
  
 Proper readme coming soon(tm)
 
